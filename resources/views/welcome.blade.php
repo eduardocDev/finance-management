@@ -13,7 +13,7 @@
     <div>
         <h3>Welcome to the best</h3>
 
-        <h1>NEW BANKING</h1>
+        <h1>FINANCE MANAGEMENT</h1>
         
         <h1><a href="/register" style="color: green">Register</a></h1>
         <h1><a href="/login" style="color: rgb(0, 119, 255)">Login</a></h1>
